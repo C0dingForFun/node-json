@@ -1,0 +1,62 @@
+{
+    "carousel":[
+        {
+            "brand":"Beats",
+            "type":"Wireless",
+            "category":"Headphones",
+            "description":"an interference pattern between two sounds of slightly different frequencies, perceived as a periodic variation in volume whose rate is the difference of the two frequencies. ",
+            "image":""
+        },
+        {
+            "brand":"Oculus",
+            "type":"VR Sets",
+            "category":"Virtual Reality",
+            "description":"It is an evolution of the original Oculus with a similar design, but with a lighter weight, updated internal specifications, a display with a higher refresh rate and per-eye resolution, and updated Oculus Touch controllers with improved battery life.",
+            "image":""
+        },
+        {
+            "brand":"PS5",
+            "type":"Gaming",
+            "category":"Console",
+            "description":"It is an evolution of the original Oculus with a similar design, but with a lighter weight, updated internal specifications, a display with a higher refresh rate and per-eye resolution, and updated Oculus Touch controllers with improved battery life.",
+            "image":""
+        },
+        {
+            "brand":"Dell",
+            "type":"Inspire",
+            "category":"Laptop",
+            "description":"Versatile performance and designed for adaptability, no matter what adventure you chase, the 360 hinge gives you the flexibility to get things done, whether in tablet, tent, stand or laptop modes, and an active pen allows for natural writing.",
+            "image":""
+            
+        },
+        {
+            "brand":"Perspective",
+            "type":"Watch",
+            "category":"Smart Watch",
+            "description":"HUAWEI WATCH FIT Special Edition features a lightweight body of just 21 g and is only 10.7 mm thin. It's gorgeous AMOLED display with ultra-clear pixel resolution achieves an incredibly immersive visual experience.",
+            "image":""
+            
+        },
+        {
+            "brand":"JBL",
+            "type":"Wireless",
+            "category":"Earphones",
+            "description":"The best audio solution not matter the device, JBL Live Pro+ TWS delivers an immersive True Wireless experience with incredible JBL Signature Sound. Let Smart Ambient connect you to your environment, or focus on the music with Adaptive Noise Cancelling.",
+            "image":"https://anushqakandan.github.io/Node_images/Airpods3.jpg"
+        }     
+    ],
+    "news":[
+      {
+        "image":"...." ,
+        "description":"...."
+      },
+      {
+        "image":"...." ,
+        "description":"...."
+      },
+      {
+        "image":"...." ,
+        "description":"...."
+      }
+    ]
+}
