@@ -11,7 +11,7 @@
         {
             "brand":"Oculus",
             "type":"VR Sets",
-            "category":"Virtual Reality",
+            "category":"Virtual",
             "description":"It is an evolution of the original Oculus with a similar design, but with a lighter weight, updated internal specifications, a display with a higher refresh rate and per-eye resolution, and updated Oculus Touch controllers with improved battery life.",
             "image":"https://anushqakandan.github.io/Node_images/VR2.png",
             "background":"https://c0dingforfun.github.io/node-images/Images/Home/Carousel/Two/Two.png"
@@ -64,10 +64,5 @@
         "image":"https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
         "description":"This year, ASUS has been announced as the official partner of the all-new Decorex Design Summit continues with the final Johannesburg leg on 29 July 2022."
       }
-    ],
-    "contact":[
-        {
-        "image":"https://c0dingforfun.github.io/node-images/Images/Contact/Conatct.png"
-        }
     ]
 }
