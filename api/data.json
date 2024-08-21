@@ -65,5 +65,9 @@
         "description":"This year, ASUS has been announced as the official partner of the all-new Decorex Design Summit continues with the final Johannesburg leg on 29 July 2022."
       }
     ],
-    "contact":["https://c0dingforfun.github.io/node-images/Images/Contact/Conatct.png"]
+    "contact":[
+        {
+        "image":"https://c0dingforfun.github.io/node-images/Images/Contact/Conatct.png"
+        }
+    ]
 }
