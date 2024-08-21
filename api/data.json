@@ -47,16 +47,16 @@
     ],
     "news":[
       {
-        "image":"...." ,
-        "description":"...."
+        "image":"https://www.incredible.co.za/media/catalog/product/cache/7ce9addd40d23ee411c2cc726ad5e7ed/q/u/quest_2_remote_final__2__ecommerce_72c6.png" ,
+        "description":"Exciting News! Our latest product has arrived, and it’s an imported gem! While we generally do not sell parallel imported products, sometimes it’s the only way to get in-demand items in our customers' hands. While this product has been imported without the approval or license of the registered owner of the trade mark, you can rest assured that this product is fully supported by us and our local supplier, and it is fully backed by our famous after-sales service and warranty support."
       },
       {
-        "image":"...." ,
-        "description":"...."
+        "image":"https://images.pexels.com/photos/16729742/pexels-photo-16729742/free-photo-of-choice-of-headphones.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+        "description":"Beats Solo 4: New on-ear headphones. Notable upgrades include custom 40mm transducers and a claimed 50 hours of battery life."
       },
       {
-        "image":"...." ,
-        "description":"...."
+        "image":"https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+        "description":"This year, ASUS has been announced as the official partner of the all-new Decorex Design Summit continues with the final Johannesburg leg on 29 July 2022."
       }
     ]
 }
