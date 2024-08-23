@@ -5,7 +5,7 @@
             "type":"Wireless",
             "category":"Headphones",
             "description":"an interference pattern between two sounds of slightly different frequencies, perceived as a periodic variation in volume whose rate is the difference of the two frequencies. ",
-            "image":"https://c0dingforfun.github.io/node-images/Images/Home/Carousel/Headphone.png",
+            "image":"https://c0dingforfun.github.io/node-images/Images/Home/Carousel/Headphone.pn",
             "background":"https://c0dingforfun.github.io/node-images/Images/Home/Carousel/One/One.png"
         },
         {
@@ -54,7 +54,7 @@
     "news":[
       {
         "image":"https://www.incredible.co.za/media/catalog/product/cache/7ce9addd40d23ee411c2cc726ad5e7ed/q/u/quest_2_remote_final__2__ecommerce_72c6.png" ,
-        "description":"Exciting News! Our latest product has arrived, and it’s an imported gem! While we generally do not sell parallel imported products, sometimes it’s the only way to get in-demand items in our customers' hands. While this product has been imported without the approval or license of the registered owner of the trade mark, you can rest assured that this product is fully supported by us and our local supplier, and it is fully backed by our famous after-sales service and warranty support."
+        "description":"Exciting News! Our latest product has arrived, and it’s an imported gem! While we generally do not sell parallel imported products, sometimes it’s the only way to get in-demand items in our customers' hands."
       },
       {
         "image":"https://images.pexels.com/photos/16729742/pexels-photo-16729742/free-photo-of-choice-of-headphones.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
